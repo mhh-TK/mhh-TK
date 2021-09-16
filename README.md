@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mhh-TK
 - 👀 I’m interested in anything with either bright colors or fun spinning rims
-- 🌱 I’m currently learning Javascript and Python
+- 🌱 I’m currently learning Typescript and Python
 - 💞️ I’m mostly going to work on pet projects for now
 - 📫 How to reach me? Uh.. Buy me dinner first.
 
